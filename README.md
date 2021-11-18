@@ -10,7 +10,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,5 +83,5 @@ Dockerfile               5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hgaiji/hgaiji/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/11/2021
+ Last Updated on 18/11/2021
 <!--END_SECTION:waka-->

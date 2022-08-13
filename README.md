@@ -2,6 +2,11 @@
 
 <p>Welcome to my page! </br> I'm hy, Backend developer.
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higakinn&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Higakinn&theme=onedark&show_icons=ture" />
+</p>
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/hgaiji" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -76,7 +81,6 @@ Swift                    8 repos             ███░░░░░░░░�
 Dockerfile               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
 
 ```
-
 
 **Timeline**
 
